@@ -14,7 +14,7 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 
 ## Related Papers
 
-### Complex Logic Reasoning
+### Complex Logical Reasoning
 - **Hypothesis Search: Inductive Reasoning with Language Models** [[Paper](https://openreview.net/pdf?id=G7UtIGQmjm)] (ICLR 2024)
   - Ruocheng Wang, Eric Zelikman, Gabriel Poesia, Yewen Pu, Nick Haber, Noah D. Goodman
   - Stanford, Autodesk Research
@@ -37,6 +37,20 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling** [[Paper](https://arxiv.org/pdf/2407.21787)] (2024)
   - Bradley Brown, Jordan Juravsky, Ryan Ehrlich, Ronald Clark, Quoc V. Le, Christopher Ré, Azalia Mirhoseini
   - Stanford, Oxford, Google DeepMind
+
+
+
+### Self-play Learning
+
+
+
+### Step-wise Optimization
+
+
+
+### Process-based Supervised
+
+
 
 ## Social News
 
