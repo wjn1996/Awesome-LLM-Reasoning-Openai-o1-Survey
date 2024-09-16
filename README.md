@@ -20,16 +20,19 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 
 ### Reasoning Boostraping
 
-- **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning** [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/639a9a172c044fbb64175b5fad42e9a5-Paper-Conference.pdf) [[Github]](https://github.com/ezelikman/STaR)
+- **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning** [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/639a9a172c044fbb64175b5fad42e9a5-Paper-Conference.pdf) [[Github]](https://github.com/ezelikman/STaR) (NeurIPS 2022)
   - Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
-  - NeurIPS 2022
   - Stanford, Google
 
-- **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking** [[Paper](https://arxiv.org/pdf/2403.09629)] [[Github](https://github.com/ezelikman/quiet-star)]
+- **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking** [[Paper](https://arxiv.org/pdf/2403.09629)] [[Github](https://github.com/ezelikman/quiet-star)] (2022)
   - Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman
-  - ArXiv 2024
   - Stanford, Notbad AI
 
+### Reasoning Scaling Law
+
+- **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling** [[Paper](https://arxiv.org/pdf/2407.21787)]
+  - Bradley Brown, Jordan Juravsky, Ryan Ehrlich, Ronald Clark, Quoc V. Le, Christopher Ré, Azalia Mirhoseini
+  - Stanford, Oxford, Google DeepMind
 
 ## Social News
 
