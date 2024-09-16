@@ -15,7 +15,12 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 ## Related Papers
 
 ### Complex Logic Reasoning
-
+- **Hypothesis Search: Inductive Reasoning with Language Models** [[Paper](https://openreview.net/pdf?id=G7UtIGQmjm)] (ICLR 2024)
+  - Ruocheng Wang, Eric Zelikman, Gabriel Poesia, Yewen Pu, Nick Haber, Noah D. Goodman
+  - Stanford, Autodesk Research
+- **Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement** [[Paper](https://openreview.net/pdf?id=bNt7oajl2a)] (ICLR 2024)
+  - Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, Valentina Pyatkin, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren
+  - MIT, Allen AI, UW, USC
 
 
 ### Reasoning Bootstrapping
