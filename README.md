@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![License](https://img.shields.io/github/license/hijkzzz/Awesome-LLM-Strawberry)](https://github.com/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey/blob/main/LICENSE)  ![Visitors](https://visitor-badge.lithub.cc/badge?page_id=wjn1996.awesome-llm-reasoning-openai-o1-survey&left_text=Visitors)  ![Stars](https://img.shields.io/github/stars/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey?color=yellow)  ![Forks](https://img.shields.io/github/forks/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey?color=9cf)
 
 
-The related works and background techniques about Openai o1
+The related works and background techniques about OpenAI o1, including LLM reasoning, self-play reinforcement learning, complex logic reasoning, scaling law, etc.
 
 
 ## Introduction
