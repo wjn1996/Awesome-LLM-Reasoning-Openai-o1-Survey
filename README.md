@@ -20,9 +20,15 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 
 ### Reasoning Boostraping
 
-- STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning (NeurIPS 2022) [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/639a9a172c044fbb64175b5fad42e9a5-Paper-Conference.pdf) [[Github]](https://github.com/ezelikman/STaR)
-  - Stanford, Google
+- **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning** [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/639a9a172c044fbb64175b5fad42e9a5-Paper-Conference.pdf) [[Github]](https://github.com/ezelikman/STaR)
   - Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
+  - NeurIPS 2022
+  - Stanford, Google
+
+- **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking** [[Paper](https://arxiv.org/pdf/2403.09629)] [[Github](https://github.com/ezelikman/quiet-star)]
+  - Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman
+  - ArXiv 2024
+  - Stanford, Notbad AI
 
 
 ## Social News
