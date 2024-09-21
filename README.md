@@ -30,9 +30,12 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking** [[Paper](https://arxiv.org/pdf/2403.09629)] [[Github](https://github.com/ezelikman/quiet-star)] (2022)
   - Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman
   - Stanford, Notbad AI
-- **Training chain-of-thought via latent-variable inference** [[Paper]()]
+- **Training chain-of-thought via latent-variable inference** [[Paper](https://papers.nips.cc/paper_files/paper/2023/file/e69a9560c450ca76584d9eb37e7f5ae8-Paper-Conference.pdf)] (NeurIPS 2023)
   - Du Phan, Matthew D. Hoffman, David Dohan, Sholto Douglas, Tuan Anh Le, Aaron Parisi, Pavel Sountsov, Charles Sutton, Sharad Vikram, Rif A. Saurous
   - Google
+- **Chain-of-thought reasoning without prompting** [[Paper](https://arxiv.org/pdf/2402.10200)] (2024)
+  - Xuezhi Wang, Denny Zhou
+  - Google DeepMind
 
 
 ### Reasoning Scaling Law
