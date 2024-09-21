@@ -70,20 +70,27 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Self-Play Preference Optimization for Language Model Alignment** [[Paper](https://arxiv.org/pdf/2405.00675)] [[Github](https://github.com/uclaml/SPPO)] (2024)
   - Yue Wu, Zhiqing Sun, Huizhuo Yuan, Kaixuan Ji, Yiming Yang, Quanquan Gu
   - UCLA
+- **Scalable Online Planning via Reinforcement Learning Fine-Tuning** [[Paper](https://arxiv.org/pdf/2109.15316)] (NeurIPS 2021)
+  - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown
+  
 
-### Step-wise Optimization
-
-
-
-### Process-based Supervised
+### Step-wise and Process-based Optimization
 - **Solving math word problems with process-and outcome-based feedback** [[Paper](https://arxiv.org/pdf/2211.14275)] (2022)
   - Jonathan Uesato, Nate Kushman, Ramana Kumar, Francis Song, Noah Siegel, Lisa Wang, Antonia, Creswell, Geoffrey Irving, Irina Higgins
   - Google DeepMind
 - **Thinking fast and slow with deep learning and tree search** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/d8e1344e27a5b08cdfd5d027d9b8d6de-Paper.pdf)] (NeurIPS 2017)
   - Thomas Anthony, Zheng Tian, David Barber
   - University College Londo, Alen
-
-
+- **Let’s Verify Step by Step** [[Paper](https://arxiv.org/pdf/2305.20050)] (2023)
+  - Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe
+  - OpenAI
+- **LLM Critics Help Catch LLM Bugs** [[Paper](https://arxiv.org/pdf/2407.00215v1)] (2024)
+  - Nat McAleese, Rai Michael Pokorny, Juan Felipe Ceron Uribe, Evgenia Nitishinskaya, Maja Trebacz, Jan Leike
+  - OpenAI
+- **Self-critiquing models for assisting human evaluators** [[Paper](https://arxiv.org/pdf/2206.05802)] (2022)
+  - William Saunders, Catherine Yeh, Jeff Wu, Steven Bills, Long Ouyang, Jonathan Ward, Jan Leike
+  - OpenAI
+  
 
 ## Social News
 
