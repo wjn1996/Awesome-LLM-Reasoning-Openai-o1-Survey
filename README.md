@@ -30,7 +30,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking** [[Paper](https://arxiv.org/pdf/2403.09629)] [[Github](https://github.com/ezelikman/quiet-star)] (2022)
   - Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman
   - Stanford, Notbad AI
-
+- **Training chain-of-thought via latent-variable inference** [[Paper]()]
+  - Du Phan, Matthew D. Hoffman, David Dohan, Sholto Douglas, Tuan Anh Le, Aaron Parisi, Pavel Sountsov, Charles Sutton, Sharad Vikram, Rif A. Saurous
+  - Google
 
 
 ### Reasoning Scaling Law
@@ -49,6 +51,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 
 
 ### Process-based Supervised
+- **Solving math word problems with process-and outcome-based feedback** [[Paper](https://arxiv.org/pdf/2211.14275)] (2022)
+  - Jonathan Uesato, Nate Kushman, Ramana Kumar, Francis Song, Noah Siegel, Lisa Wang, Antonia, Creswell, Geoffrey Irving, Irina Higgins
+  - Google DeepMind
 
 
 
