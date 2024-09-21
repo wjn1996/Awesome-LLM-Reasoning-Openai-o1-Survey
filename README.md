@@ -46,7 +46,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Chain-of-thought reasoning without prompting** [[Paper](https://arxiv.org/pdf/2402.10200)] (2024)
   - Xuezhi Wang, Denny Zhou
   - Google DeepMind
-
+- **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers** [[Paper](https://arxiv.org/pdf/2408.06195)] [[Github](https://github.com/zhentingqi/rStar)] (2024)
+  - Zhenting Qi, Mingyuan Ma, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang
+  - MSRA, Harvard University
 
 ### Reasoning Scaling Law
 - **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling** [[Paper](https://arxiv.org/pdf/2407.21787)] (2024)
@@ -102,7 +104,12 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Self-critiquing models for assisting human evaluators** [[Paper](https://arxiv.org/pdf/2206.05802)] (2022)
   - William Saunders, Catherine Yeh, Jeff Wu, Steven Bills, Long Ouyang, Jonathan Ward, Jan Leike
   - OpenAI
-  
+- **Improve Mathematical Reasoning in Language Models by Automated Process Supervision** [[Paper](https://arxiv.org/pdf/2406.06592)] (2024)
+  - Liangchen Luo, Yinxiao Liu, Rosanne Liu, Samrat Phatale, Harsh Lara, Yunxuan Li, Lei Shu, Yun Zhu, Lei Meng, Jiao Sun, Abhinav Rastogi
+  - Google DeepMind
+- **Q\*: Improving Multi-step Reasoning for LLMs with Deliberative Planning** [[Paper](https://arxiv.org/pdf/2406.14283)] (2024)
+  - Chaojie Wang, Yanchen Deng, Zhiyi Lyu, Liang Zeng, Jujie He, Shuicheng Yan, Bo An
+  - Skywork AI, NTU
 
 ## Social News
 
