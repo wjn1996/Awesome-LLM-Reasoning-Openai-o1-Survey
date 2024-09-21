@@ -60,6 +60,12 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Large Language Models Can Self-Improve** [[Paper](https://aclanthology.org/2023.emnlp-main.67.pdf)]
   - Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han
   - University of Illinois at Urbana-Champaign, Google
+- **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models** [[Paper](https://openreview.net/pdf?id=O4cHTxW9BS)] [[Github](https://github.com/uclaml/SPIN)] (ICML 2024)
+  - Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu
+  - UCLA
+- **Self-Play Preference Optimization for Language Model Alignment** [[Paper](https://arxiv.org/pdf/2405.00675)] [[Github](https://github.com/uclaml/SPPO)] (2024)
+  - Yue Wu, Zhiqing Sun, Huizhuo Yuan, Kaixuan Ji, Yiming Yang, Quanquan Gu
+  - UCLA
 ### Step-wise Optimization
 
 
