@@ -26,7 +26,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement** [[Paper](https://openreview.net/pdf?id=bNt7oajl2a)] (ICLR 2024)
   - Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, Valentina Pyatkin, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren
   - MIT, Allen AI, UW, USC
-
+- **Training Verifiers to Solve Math Word Problems** [[Paper](https://arxiv.org/pdf/2110.14168)] (2021)
+  - Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
+  - OpenAI
 
 ### Reasoning Bootstrapping
 - **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning** [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/639a9a172c044fbb64175b5fad42e9a5-Paper-Conference.pdf) [[Github]](https://github.com/ezelikman/STaR) (NeurIPS 2022)
