@@ -58,6 +58,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models** [[Paper](https://arxiv.org/pdf/2408.00724)] (2024)
   - Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang
   - Tsinghua, CMU
+- **Training Language Models to Self-Correct via Reinforcement Learning** [[Paper](https://arxiv.org/pdf/2409.12917)] (2024)
+  - Evan Wang, Federico Cassano, Catherine Wu, Yunfeng Bai, Will Song, Vaskar Nath, Ziwen Han, Sean Hendryx, Summer Yue, Hugh Zhang
+  - Google DeepMind
 
 ### Self-play Learning
 - **Mastering chess and shogi by self-play with a general reinforcement learning algorithm** [[Paper](https://arxiv.org/pdf/1712.01815)] (2017)
