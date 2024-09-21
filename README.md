@@ -80,6 +80,10 @@ The related works and background techniques about OpenAI o1, including LLM reaso
   - UCLA
 - **Scalable Online Planning via Reinforcement Learning Fine-Tuning** [[Paper](https://arxiv.org/pdf/2109.15316)] (NeurIPS 2021)
   - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown
+- **Generative Verifiers: Reward Modeling as Next-Token Prediction** [[Paper](https://arxiv.org/pdf/2408.15240)] ()
+  - Lunjun Zhang, Arian Hosseini, Hritik Bansal, Mehran Kazemi, Aviral Kumar, Rishabh Agarwal
+  - Google DeepMind
+
   
 
 ### Step-wise and Process-based Optimization
