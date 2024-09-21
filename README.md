@@ -15,6 +15,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 ## Related Papers
 
 ### Complex Logical Reasoning
+- **Generative Language Modeling for Automated Theorem Proving** [[Paper](https://arxiv.org/pdf/2009.03393)] (2020)
+  - Stanislas Polu, Ilya Sutskever
+  - OpenAI
 - **Hypothesis Search: Inductive Reasoning with Language Models** [[Paper](https://openreview.net/pdf?id=G7UtIGQmjm)] (ICLR 2024)
   - Ruocheng Wang, Eric Zelikman, Gabriel Poesia, Yewen Pu, Nick Haber, Noah D. Goodman
   - Stanford, Autodesk Research
@@ -42,13 +45,21 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling** [[Paper](https://arxiv.org/pdf/2407.21787)] (2024)
   - Bradley Brown, Jordan Juravsky, Ryan Ehrlich, Ronald Clark, Quoc V. Le, Christopher Ré, Azalia Mirhoseini
   - Stanford, Oxford, Google DeepMind
-
+- **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters** [[Paper](https://arxiv.org/pdf/2408.03314)] (2024)
+  - Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar
+  - UC Berkeley, Google DeepMind
 
 
 ### Self-play Learning
-
-
-
+- **Mastering chess and shogi by self-play with a general reinforcement learning algorithm** [[Paper](https://arxiv.org/pdf/1712.01815)] (2017)
+  - David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez,Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis
+  - Google DeepMind
+- **Language Models Can Teach Themselves to Program Better** [[Paper](https://openreview.net/pdf?id=SaRj2ka1XZ3)] [[Github](https://github.com/microsoft/PythonProgrammingPuzzles)] (ICLR 2023)
+  - Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai
+  - Microsoft Research, MIT
+- **Large Language Models Can Self-Improve** [[Paper](https://aclanthology.org/2023.emnlp-main.67.pdf)]
+  - Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han
+  - University of Illinois at Urbana-Champaign, Google
 ### Step-wise Optimization
 
 
@@ -57,6 +68,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Solving math word problems with process-and outcome-based feedback** [[Paper](https://arxiv.org/pdf/2211.14275)] (2022)
   - Jonathan Uesato, Nate Kushman, Ramana Kumar, Francis Song, Noah Siegel, Lisa Wang, Antonia, Creswell, Geoffrey Irving, Irina Higgins
   - Google DeepMind
+- **Thinking fast and slow with deep learning and tree search** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/d8e1344e27a5b08cdfd5d027d9b8d6de-Paper.pdf)] (NeurIPS 2017)
+  - Thomas Anthony, Zheng Tian, David Barber
+  - University College Londo, Alen
 
 
 
