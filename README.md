@@ -29,6 +29,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Training Verifiers to Solve Math Word Problems** [[Paper](https://arxiv.org/pdf/2110.14168)] (2021)
   - Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
   - OpenAI
+- **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning** [[Paper](https://arxiv.org/pdf/2409.12183)] (2024.9)
+  - Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett
+  - The University of Texas at Austin, Johns Hopkins University, Princeton University
 
 ### Reasoning Bootstrapping
 - **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning** [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/639a9a172c044fbb64175b5fad42e9a5-Paper-Conference.pdf) [[Github]](https://github.com/ezelikman/STaR) (NeurIPS 2022)
@@ -52,7 +55,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters** [[Paper](https://arxiv.org/pdf/2408.03314)] (2024)
   - Charlie Snell, Jaehoon Lee, Kelvin Xu, Aviral Kumar
   - UC Berkeley, Google DeepMind
-
+- **An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models** [[Paper](https://arxiv.org/pdf/2408.00724)] (2024)
+  - Yangzhen Wu, Zhiqing Sun, Shanda Li, Sean Welleck, Yiming Yang
+  - Tsinghua, CMU
 
 ### Self-play Learning
 - **Mastering chess and shogi by self-play with a general reinforcement learning algorithm** [[Paper](https://arxiv.org/pdf/1712.01815)] (2017)
