@@ -10,7 +10,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 
 
 ## Survey Papers
-
+- **A Survey on Self-play Methods in Reinforcement Learning** [[Paper](https://arxiv.org/pdf/2408.01072)] (2024)
+  - Ruize Zhang, Zelai Xu, Chengdong Ma, Chao Yu, Wei-Wei Tu, Shiyu Huang, Deheng Ye, Wenbo Ding, Yaodong Yang, Yu Wang
+  - Tencent, Tsinghua
 
 ## Related Papers
 
@@ -66,6 +68,7 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Self-Play Preference Optimization for Language Model Alignment** [[Paper](https://arxiv.org/pdf/2405.00675)] [[Github](https://github.com/uclaml/SPPO)] (2024)
   - Yue Wu, Zhiqing Sun, Huizhuo Yuan, Kaixuan Ji, Yiming Yang, Quanquan Gu
   - UCLA
+
 ### Step-wise Optimization
 
 
