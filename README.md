@@ -29,7 +29,7 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Training Verifiers to Solve Math Word Problems** [[Paper](https://arxiv.org/pdf/2110.14168)] (2021)
   - Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
   - OpenAI
-- **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning** [[Paper](https://arxiv.org/pdf/2409.12183)] (2024.9)
+- **To CoT or not to CoT? Chain-of-thought Helps Mainly on Math and Symbolic Reasoning** [[Paper](https://arxiv.org/pdf/2409.12183)] (2024.9)
   - Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett
   - The University of Texas at Austin, Johns Hopkins University, Princeton University
 
@@ -40,10 +40,10 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking** [[Paper](https://arxiv.org/pdf/2403.09629)] [[Github](https://github.com/ezelikman/quiet-star)] (2022)
   - Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman
   - Stanford, Notbad AI
-- **Training chain-of-thought via latent-variable inference** [[Paper](https://papers.nips.cc/paper_files/paper/2023/file/e69a9560c450ca76584d9eb37e7f5ae8-Paper-Conference.pdf)] (NeurIPS 2023)
+- **Training Chain-of-thought via Latent-variable Inference** [[Paper](https://papers.nips.cc/paper_files/paper/2023/file/e69a9560c450ca76584d9eb37e7f5ae8-Paper-Conference.pdf)] (NeurIPS 2023)
   - Du Phan, Matthew D. Hoffman, David Dohan, Sholto Douglas, Tuan Anh Le, Aaron Parisi, Pavel Sountsov, Charles Sutton, Sharad Vikram, Rif A. Saurous
   - Google
-- **Chain-of-thought reasoning without prompting** [[Paper](https://arxiv.org/pdf/2402.10200)] (2024)
+- **Chain-of-thought Reasoning without Prompting** [[Paper](https://arxiv.org/pdf/2402.10200)] (2024)
   - Xuezhi Wang, Denny Zhou
   - Google DeepMind
 - **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers** [[Paper](https://arxiv.org/pdf/2408.06195)] [[Github](https://github.com/zhentingqi/rStar)] (2024)
@@ -65,7 +65,7 @@ The related works and background techniques about OpenAI o1, including LLM reaso
   - Google DeepMind
 
 ### Self-play Learning
-- **Mastering chess and shogi by self-play with a general reinforcement learning algorithm** [[Paper](https://arxiv.org/pdf/1712.01815)] (2017)
+- **Mastering Chess and Shogi by Self-play with a General Reinforcement Learning Algorithm** [[Paper](https://arxiv.org/pdf/1712.01815)] (2017)
   - David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez,Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis
   - Google DeepMind
 - **Language Models Can Teach Themselves to Program Better** [[Paper](https://openreview.net/pdf?id=SaRj2ka1XZ3)] [[Github](https://github.com/microsoft/PythonProgrammingPuzzles)] (ICLR 2023)
@@ -91,10 +91,10 @@ The related works and background techniques about OpenAI o1, including LLM reaso
   
 
 ### Step-wise and Process-based Optimization
-- **Solving math word problems with process-and outcome-based feedback** [[Paper](https://arxiv.org/pdf/2211.14275)] (2022)
+- **Solving Math Word Problems with Process-and Outcome-based Feedback** [[Paper](https://arxiv.org/pdf/2211.14275)] (2022)
   - Jonathan Uesato, Nate Kushman, Ramana Kumar, Francis Song, Noah Siegel, Lisa Wang, Antonia, Creswell, Geoffrey Irving, Irina Higgins
   - Google DeepMind
-- **Thinking fast and slow with deep learning and tree search** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/d8e1344e27a5b08cdfd5d027d9b8d6de-Paper.pdf)] (NeurIPS 2017)
+- **Thinking Fast and Slow With Deep Learning and Tree Search** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/d8e1344e27a5b08cdfd5d027d9b8d6de-Paper.pdf)] (NeurIPS 2017)
   - Thomas Anthony, Zheng Tian, David Barber
   - University College Londo, Alen
 - **Let’s Verify Step by Step** [[Paper](https://arxiv.org/pdf/2305.20050)] (2023)
@@ -103,7 +103,7 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **LLM Critics Help Catch LLM Bugs** [[Paper](https://arxiv.org/pdf/2407.00215v1)] (2024)
   - Nat McAleese, Rai Michael Pokorny, Juan Felipe Ceron Uribe, Evgenia Nitishinskaya, Maja Trebacz, Jan Leike
   - OpenAI
-- **Self-critiquing models for assisting human evaluators** [[Paper](https://arxiv.org/pdf/2206.05802)] (2022)
+- **Self-critiquing Models for Assisting Human Evaluators** [[Paper](https://arxiv.org/pdf/2206.05802)] (2022)
   - William Saunders, Catherine Yeh, Jeff Wu, Steven Bills, Long Ouyang, Jonathan Ward, Jan Leike
   - OpenAI
 - **Improve Mathematical Reasoning in Language Models by Automated Process Supervision** [[Paper](https://arxiv.org/pdf/2406.06592)] (2024)
@@ -112,6 +112,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Q\*: Improving Multi-step Reasoning for LLMs with Deliberative Planning** [[Paper](https://arxiv.org/pdf/2406.14283)] (2024)
   - Chaojie Wang, Yanchen Deng, Zhiyi Lyu, Liang Zeng, Jujie He, Shuicheng Yan, Bo An
   - Skywork AI, NTU
+- **Math-shepherd: Verify and Reinforce LLMs step-by-step without Human Annotations** [[Paper](https://aclanthology.org/2024.acl-long.510.pdf)] (ACL 2024)
+  - Peiyi Wang, Lei Li, Zhihong Shao, Runxin Xu, Damai Dai, Yifei Li, Deli Chen, Yu Wu, Zhifang Sui
+  - Peking University, DeepSeek AI, HKU, Tsinghua University, The Ohio State University
 
 ## Social News
 
