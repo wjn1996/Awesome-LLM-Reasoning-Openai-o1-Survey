@@ -122,6 +122,7 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 
 ## Open-source Projects
 
+- **O1-Journey** [[Github](https://github.com/GAIR-NLP/O1-Journey#about-the-team)]
 
 
 ## Communication Groups
