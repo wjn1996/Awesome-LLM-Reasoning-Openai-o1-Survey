@@ -124,6 +124,7 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 
 - **O1-Journey** [[Github](https://github.com/GAIR-NLP/O1-Journey#about-the-team)]
 - **OpenReasoner** [[Github](https://github.com/openreasoner/openr)]
+- **g1** [[Github](https://github.com/bklieger-groq/g1)]
 
 
 ## Communication Groups
