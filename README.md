@@ -88,7 +88,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B** [[Paper](https://arxiv.org/pdf/2406.07394)] (2024)
   - Di Zhang, Xiaoshui Huang, Dongzhan Zhou, Yuqiang Li, Wanli Ouyang
   - Fudan University, Shanghai AI Lab
-  
+- **Interpretable Contrastive Monte Carlo Tree Search Reasoning** [[Paper](https://arxiv.org/abs/2410.01707)] (2024)
+  - Zitian Gao, Boye Niu, Xuzheng He, Haotian Xu, Hongzhang Liu, Aiwei Liu, Xuming Hu, Lijie Wen
+  - The University of Sydney, Peking University, Xiaohongshu, Shanghai AI Lab, Tsinghua, HKUST
 
 ### Step-wise and Process-based Optimization
 - **Solving Math Word Problems with Process-and Outcome-based Feedback** [[Paper](https://arxiv.org/pdf/2211.14275)] (2022)
