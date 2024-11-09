@@ -63,6 +63,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Training Language Models to Self-Correct via Reinforcement Learning** [[Paper](https://arxiv.org/pdf/2409.12917)] (2024)
   - Evan Wang, Federico Cassano, Catherine Wu, Yunfeng Bai, Will Song, Vaskar Nath, Ziwen Han, Sean Hendryx, Summer Yue, Hugh Zhang
   - Google DeepMind
+- **From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond** [[https://arxiv.org/abs/2411.03590]] (2024)
+  - Harsha Nori, Naoto Usuyama, Nicholas King, Scott Mayer McKinney, Xavier Fernandes, Sheng Zhang, Eric Horvitz
+  - Microsoft, OpenAI
 
 ### Self-play Learning
 - **Mastering Chess and Shogi by Self-play with a General Reinforcement Learning Algorithm** [[Paper](https://arxiv.org/pdf/1712.01815)] (2017)
