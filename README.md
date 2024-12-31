@@ -128,8 +128,8 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 
 ## Applications beyond Math
 - **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs** [[Paper](https://arxiv.org/abs/2412.18925)] (2024)
--  Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
--  The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
+  - Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
+  - The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
 
 
 ## Open-source Projects
