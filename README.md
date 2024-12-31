@@ -105,6 +105,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Let’s Verify Step by Step** [[Paper](https://arxiv.org/pdf/2305.20050)] (2023)
   - Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe
   - OpenAI
+- **OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning**  [[Paper](https://arxiv.org/abs/2311.09724)] (Findings of NAACL 2024)
+  - Fei Yu, Anningzhe Gao, Benyou Wang
+  - The Chinese University of Hong Kong, Shenzhen (CUHKSZ) & Shenzhen Research Insitute of Big Data (SRIBD)
 - **LLM Critics Help Catch LLM Bugs** [[Paper](https://arxiv.org/pdf/2407.00215v1)] (2024)
   - Nat McAleese, Rai Michael Pokorny, Juan Felipe Ceron Uribe, Evgenia Nitishinskaya, Maja Trebacz, Jan Leike
   - OpenAI
@@ -123,6 +126,10 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 
 ## Social News
 
+## Applications beyond Math
+- **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs** [[Paper](https://arxiv.org/abs/2412.18925)] (2024)
+-  Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
+-  The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
 
 
 ## Open-source Projects
@@ -130,6 +137,7 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **O1-Journey** [[Github](https://github.com/GAIR-NLP/O1-Journey#about-the-team)]
 - **OpenReasoner** [[Github](https://github.com/openreasoner/openr)]
 - **g1** [[Github](https://github.com/bklieger-groq/g1)]
+- **HuatuoGPT-o1** [[Github](https://github.com/FreedomIntelligence/HuatuoGPT-o1)]
 
 
 ## Communication Groups
