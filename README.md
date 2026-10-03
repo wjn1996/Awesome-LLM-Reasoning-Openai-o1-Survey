@@ -127,6 +127,10 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 ## Social News
 
 ## Applications beyond Math
+- **TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models** [[Paper](https://arxiv.org/abs/2509.23140)] (EMNLP 2026 Main)
+  - Song Jin, Juntian Zhang, Ruyu Lyu, Yong Liu, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, Rui Yan
+  - Renmin University of China, Meituan, Wuhan University
+
 - **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs** [[Paper](https://arxiv.org/abs/2412.18925)] (2024)
   - Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
   - The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
